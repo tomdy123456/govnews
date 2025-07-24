@@ -2,4 +2,4 @@
  --- 
  # 全部简报(仅展示最近30天) 
 
-[{0}](#save/{0}).format(thatDay, thatDay)
+[{0}](save/{0}.md).format(thatDay, thatDay)
